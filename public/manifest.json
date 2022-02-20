@@ -1,0 +1,13 @@
+{
+  "name": "Hearing Augmentation Aid",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Hearing Augmentation Aid",
+  "icons": {
+      "512": "logo.png"
+  },
+  "browser_action": {
+      "default_icon": "logo.png",
+      "default_popup": "index.html"
+  }
+}
